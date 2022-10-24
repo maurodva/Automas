@@ -4,37 +4,53 @@
   "IdTransaccion": "WY41274AS123",
   "FechaHoraRespuesta": "2022-07-15 12:17:45.675",
   "Disponibilidades": [
-      {
-		"Id": "A34R",
-        "Ciudad": "Chia",
-		"Centro": "EDS La montaña",
-		"Direccion": "Carrera 4 # 20-15",
-		"Telefono": "601 7642318",
-        "Horarios": [{"2022-08-23 10:00:00.000", "2022-08-23 15:30:00.000", "2022-08-24 08:30:00.000"}]
-      },
-      {
-		"Id": "B334R",
-        "Ciudad": "La calera",
-		"Centro": "Consecionario La Banda",
-		"Direccion": "Calle 10 # 8-20",
-		"Telefono": "601 4686800",
-        "Horarios": [{"2022-08-23 10:00:00.000", "2022-08-23 11:00:00.000", "2022-08-23 14:00:00.000"}]
-      },
-      {
-		"Id": "H623K",
-        "Ciudad": "Bogota",
-		"Centro": "EDS La colmena",
-		"Direccion": "AV carrera 68 # 85-29",
-		"Telefono": "601 2345000",
-        "Horarios": [{"2022-08-23 10:00:00.000", "2022-08-23 15:30:00.000", "2022-08-24 08:30:00.000"}]
-      },
-      {
-		"Id": "563KS",
-        "Ciudad": "Bogota",
-		"Centro": "CDA Norte",
-		"Direccion": "Autopista Norte Calle 180 # 67 -34",
-		"Telefono": "",
-        "Horarios": [{"2022-08-23 10:00:00.000", "2022-08-23 10:30:00.000", "2022-08-23 11:00:00.000"}]
-      }
-    ]
-}  
+    {
+      "Id": "A34R",
+      "Ciudad": "Chia",
+      "Centro": "EDS La montaña",
+      "Direccion": "Carrera 4 # 20-15",
+      "Telefono": "601 7642318",
+      "Horarios": [
+        "2022-08-23 10:00:00.000",
+        "2022-08-23 15:30:00.000",
+        "2022-08-24 08:30:00.000"
+      ]
+    },
+    {
+      "Id": "B334R",
+      "Ciudad": "La calera",
+      "Centro": "Consecionario La Banda",
+      "Direccion": "Calle 10 # 8-20",
+      "Telefono": "601 4686800",
+      "Horarios": [
+        "2022-08-23 10:00:00.000",
+        "2022-08-23 11:00:00.000",
+        "2022-08-23 14:00:00.000"
+      ]
+    },
+    {
+      "Id": "H623K",
+      "Ciudad": "Bogota",
+      "Centro": "EDS La colmena",
+      "Direccion": "AV carrera 68 # 85-29",
+      "Telefono": "601 2345000",
+      "Horarios": [
+        "2022-08-23 10:00:00.000",
+        "2022-08-23 15:30:00.000",
+        "2022-08-24 08:30:00.000"
+      ]
+    },
+    {
+      "Id": "563KS",
+      "Ciudad": "Bogota",
+      "Centro": "CDA Norte",
+      "Direccion": "Autopista Norte Calle 180 # 67 -34",
+      "Telefono": "",
+      "Horarios": [
+        "2022-08-23 10:00:00.000",
+        "2022-08-23 10:30:00.000",
+        "2022-08-23 11:00:00.000"
+      ]
+    }
+  ]
+}
